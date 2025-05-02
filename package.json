@@ -1,10 +1,11 @@
 {
-  "name": "typescript-game-shadow-dog",
-  "description": "Learn TypeScript - Game Shadow Dog",
+  "name": "shadow-dog-game",
+  "description": "The typescript canvas game for practicing design patterns",
   "version": "1.0.0",
   "author": "Gurov Dmitriy",
-  "license": "ISC",
+  "license": "MIT",
   "source": "src/index.html",
+  "private": true,
   "homepage": "https://gurovdmitriy.github.io/typescript-game-shadow-dog",
   "scripts": {
     "test": "jest",
