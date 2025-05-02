@@ -1,81 +1,18 @@
-# Learn TypeScript - Game Shadow Dog
+<p align="center">
+<a href="https://gurovdmitriy.github.io/shadowdoggame/">
+</a>
+</p>
 
----
+<h1 align="center">
+Shadow Dog Game
+</h1>
+<p align="center">
+The typescript canvas game for practicing design patterns
+<p>
 
-## npm clean install a project
+<br>
+<br>
 
-```bash
-npm ci
-```
+## License
 
-## npm install a package
-
-```bash
-npm install
-```
-
-## npm run a security audit
-
-```bash
-npm audit [fix]
-```
-
-## npm check for outdated packages
-
-```bash
-npm outdate [--all]
-```
-
-## npm update packages
-
-```bash
-npm update
-```
-
-## npm update with npm-check-updates
-
-```bash
-npm install -g npm-check-updates
-```
-
-## npm check update
-
-```bash
-ncu
-```
-
-## npm upgrade
-
-```bash
-ncu --upgrade
-```
-
-## npm upgrade interactive
-
-```bash
-ncu --interactive
-# or
-ncu --interactive --format group
-```
-
-## node version manager
-
-- https://volta.sh/
-
-## volta set or install version node
-
-```bash
-volta install node@18.14.0
-# or
-volta install node@18
-# or latest
-volta install node
-```
-
-## volta pin project
-
-```bash
-volta pin node@18.14.0
-# or
-volta pin node@18
-```
+[MIT](./LICENSE) License © 2023-Present [Dmitriy Gurov](https://github.com/GurovDmitriy)
